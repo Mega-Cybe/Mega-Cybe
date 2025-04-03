@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mega-Cybe
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning c++ programming
+- 🌱 C++, C, HTML, Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
